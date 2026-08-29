@@ -16,3 +16,10 @@
 ## Notes to future me
 Things I got stuck on, so I don't get stuck again:
 - I did not really get stuck on anything (for now)
+
+## Terminal commands I learned
+- pwd
+- ls
+- cd
+- mkdir
+

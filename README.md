@@ -17,9 +17,17 @@
 Things I got stuck on, so I don't get stuck again:
 - I did not really get stuck on anything (for now)
 
+(8/28) Friday
+- Learned how to push to github through the terminal,
+  I need to practice it some more to get it down.
+
 ## Terminal commands I learned
 - pwd
 - ls
 - cd
 - mkdir
+- git status
+- git add
+- git commit -m "..."
+- git push
 

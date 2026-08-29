@@ -30,4 +30,6 @@ Things I got stuck on, so I don't get stuck again:
 - git add
 - git commit -m "..."
 - git push
+- git log --oneline
+- git log
 

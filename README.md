@@ -33,3 +33,8 @@ Things I got stuck on, so I don't get stuck again:
 - git log --oneline
 - git log
 
+## My goals for this corse
+- Develop a website (core focus)
+- Become fluent in bash commands (useful in general esp since im on linux, and this class has been surprisingly helpful  in getting experience with terminal)
+- Overall broadening of my coding experience (as also stated above)
+

@@ -38,3 +38,8 @@ Things I got stuck on, so I don't get stuck again:
 - Become fluent in bash commands (useful in general esp since im on linux, and this class has been surprisingly helpful  in getting experience with terminal)
 - Overall broadening of my coding experience (as also stated above)
 
+## Tools I have installed
+- [X] Git
+- [ ] IntelliJ IDEA Community Edition
+- [ ] Android Studio
+- [X] VS Code

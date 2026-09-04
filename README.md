@@ -45,4 +45,4 @@ Things I got stuck on, so I don't get stuck again:
 - [X] VS Code
 
 ## Status
-- Learning Git and feeling good about it.
+- Learning Git. Branches make sense now; merge conflicts are next.

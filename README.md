@@ -45,4 +45,4 @@ Things I got stuck on, so I don't get stuck again:
 - [X] VS Code
 
 ## Status
-- Just getting started.
+- Learning Git and feeling good about it.
